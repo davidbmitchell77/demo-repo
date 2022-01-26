@@ -2,6 +2,6 @@
 
 ## This is a sub heading
 
-###  foobar
+###  This is bold text.
 
 This is a description.
